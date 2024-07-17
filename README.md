@@ -1,4 +1,4 @@
-# Literalura
+# foro-hub
 
 ## Descrição
 Projeto desenvolvido no programa ONE - Oracle Next Education realizado pela Alura em parceria com a Oracle.
@@ -14,7 +14,7 @@ Sua construção segue uma arquitetura RESTful e foi realizado utilizando Spring
 
 ## Instalação
 Para executar a aplicação localmente, siga estas etapas:
-1. Clone este repositório: git clone https://github.com/iacoleite/forumhub.git
+1. Clone este repositório: git clone https://github.com/karlaoshikawa/foro-hub
 2. Certifique-se de ter o Java JDK 17 ou superior instalado.
 3. Importe o projeto em sua IDE preferida.
 4. Configure o MySQL e atualize as configurações no arquivo application.properties.
@@ -33,6 +33,3 @@ Sinta-se à vontade para abrir um pull request ou uma issue.
 ### Licença
 Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
 
-![Badge-Spring](https://github.com/iacoleite/forumhub/assets/154355940/8f5ccb90-07cc-4f69-b5bf-03ff120456c0)
-
-# foro-hub
